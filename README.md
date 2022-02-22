@@ -1,5 +1,7 @@
 # Ravenous
-![Ravenous Demo](./videos/Ravenous-demo.mp4)
+
+
+![Ravenous Demo](./videos/Ravenous-demo_Moment.jpg)
 Ravenous is a Yelp-like project built over 5-days, that tested my knowledge of JavaScript and React.
 I started off by using create-react-app then created all of the Static Components and simulated what Ravenous should look like after returning search results, by hard coding business information and rendering it manually.
 Passing Information to Components
